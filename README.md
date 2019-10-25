@@ -6,7 +6,7 @@ Welcome! This respository presents a notebook project focusing on dog breed clas
 If you are interested, you can find the original version of the notebook projects [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification)
 
 ## Project Overview
-Once more welcome to my solution of the [udacity](https://udacity.com) deeplearning with [pytorch](https://pytorch.org) nanodegree dog breed classification project. My entire solution can be found in [dog_app.ipynb].
+Once more welcome to my solution of the [udacity](https://udacity.com) deeplearning with [pytorch](https://pytorch.org) nanodegree dog breed classification project. My entire solution can be found in [dog_app.ipynb](https://github.com/MbassiJaphet/pytorch-dog-breed-detection/blob/master/dog_app.ipynb).
 The project makes use of Convolutional Neural Networks (CNN)  to detect as well as classifying canine breeds and [haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades) from [OpenCV](https://opencv.org/) to detect human faces.
  ![dogs]
  ![dog]
